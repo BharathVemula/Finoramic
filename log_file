@@ -1,0 +1,22 @@
+twitter: Installed
+html5lib: Installed
+reportlab: Installed
+pexpect: Installed
+six: Installed
+ptyprocess: Installed
+textblob: Installed
+certifi: Installed
+numpy: Installation Failed
+urllib3: Installation Failed
+scipy: Installation Failed
+smart-open: Installation Failed
+beautifulsoup4: Installed
+bz2file: Installation Failed
+gensim: Installation Failed
+pyxdg: Installation Failed
+boto: Installation Failed
+chardet: Installed
+setuptools: Installation Failed
+requests: Installation Failed
+idna: Installed
+nltk: Installed
